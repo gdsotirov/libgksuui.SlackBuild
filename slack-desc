@@ -1,11 +1,11 @@
 libgksuui1.0: GKSu UI (an authorization widget library)
 libgksuui1.0:
-libgksuui1.0: GKSu user interface libraray uses the GTK+2 library to show the
+libgksuui1.0: GKSu user interface library uses the GTK+2 library to show the
 libgksuui1.0: dialog asking for the target user's password when needed. The
 libgksuui1.0: application using the library is able to modify the message, the
 libgksuui1.0: icon and the title of the window GKSu will use.
 libgksuui1.0:
 libgksuui1.0:
 libgksuui1.0:
-libgksuui1.0: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
+libgksuui1.0: Packaged by Georgi D. Sotirov <gdsotirov@gmail.com>
 libgksuui1.0:
